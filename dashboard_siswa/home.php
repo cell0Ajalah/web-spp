@@ -27,6 +27,7 @@
                 <a href="form_pembayaran.php?bayar">bayar spp</a>
                 <a href="histori.php">histori</a>
                 <a href="../index.php">logout</a>
+                <a href="../index.php">logout</a>
             </div>
         </div>
     </div>
